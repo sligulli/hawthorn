@@ -43,15 +43,10 @@ googleAnalytics = ""
     url = "/page/contact/"
     weight = 40
 
- [[menu.main]]
+[[menu.main]]
     name = "Links"
     url = "/page/links/"
     weight = 45
-
-[[menu.main]]
-    name = "Artifacts"
-    url = "/artifacts/"
-    weight = 50
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
